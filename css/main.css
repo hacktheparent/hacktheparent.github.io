@@ -54,8 +54,7 @@ blockquote {
 }
 
 .grid-item {
-  flex-direction: column;
-  align-items: flex-start;
+
 }
 
 .grid-image {
